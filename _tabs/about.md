@@ -20,4 +20,4 @@ I am starting my cybersecurity journey from scratch with a focus on:
  - Labs created, tools used, and mistakes made
  - Certifications earned
 
- Follow my [journey](index.html)
+ Follow my [journey](https://vianin.github.io)
