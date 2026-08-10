@@ -14,12 +14,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Basic Cybersecurity # the main title
+title: vian's Digital Diary # the main title
 
-tagline: Linux, networking, security basics # it will display as the subtitle
+tagline: Thoughts, learnings and experiences # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A blog about my learning and experiences while learning everything security from scratch - OS (Linux), networking, cybersecurity, creating labs etc.
+  Personal blog
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -46,7 +46,7 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: "73vxXx1QweQaCxyehXvwcw9w3RuqFZd8kRKauHq-_nY" # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
