@@ -14,9 +14,9 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: vian's Digital Diary # the main title
+title: SHIKRA # the main title
 
-tagline: Thoughts, learnings and experiences # it will display as the subtitle
+tagline: figuring things out # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Personal blog
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/logo.svg
+avatar: /assets/img/logo.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
